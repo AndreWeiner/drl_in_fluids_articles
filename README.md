@@ -12,12 +12,21 @@ Naturally, in the topic-based sorting, articles may appear multiple times and th
 Within each year, articles are sorted by family name of the first author.
 
 <details>
+<summary>2024</summary>
+
+- **Y. Z. Wang et al.:** Control policy transfer of deep reinforcement learning based intelligent forced heat convection control [[article](https://doi.org/10.1016/j.ijthermalsci.2023.108618)]
+
+</details>
+
+<details>
 <summary>2023</summary>
 
+- **M. Chatzimanolakis et al.:** Drag Reduction in Flows Past 2D and 3D Circular Cylinders Through Deep Reinforcement Learning [[preprint](https://arxiv.org/abs/2309.02109)]
 - **W. Chen et al.:** Deep reinforcement learning-based active flow control of vortex-induced vibration of a square cylinder [[article](https://doi.org/10.1063/5.0152777)]
 - **A. Dixit and A. H. Elsheikh:** Robust Optimal Well Control using an Adaptive Multigrid Reinforcement Learning Framework [[article](https://doi.org/10.1007/s11004-022-10033-x)][[preprint](https://arxiv.org/abs/2207.03253)]
 - **T. P. Dussauge et al.:** A reinforcement learning approach to airfoil shape optimization [[article](https://doi.org/10.1038/s41598-023-36560-z)]
 - **L. Guastoni et al.:** Deep reinforcement learning for turbulent drag reduction in channel flows [[article](https://link.springer.com/article/10.1140/epje/s10189-023-00285-8)][[preprint](https://arxiv.org/abs/2301.09889)][[code](https://github.com/KTH-FlowAI/MARL-drag-reduction-in-wall-bounded-flows)]
+- **L. Guastoni et al.:** Drag-reduction strategies in wall-bounded turbulent flows using deep reinforcement learning [[preprint](https://arxiv.org/abs/2309.02943)]
 - **F. Haodong et al.:** How to control hydrodynamic force on fluidic pinball via deep reinforcement learning [[article](https://doi.org/10.1063/5.0142949)][[preprint](https://arxiv.org/abs/2304.11526)][[code](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)]
 - **M. Kurz et al.:** Deep reinforcement learning for turbulence modeling in large eddy simulations [[article](https://doi.org/10.1016/j.ijheatfluidflow.2022.109094)][[preprint](https://arxiv.org/abs/2206.11038)][[code](https://github.com/flexi-framework/DRL_LES)]
 - **T. Lee et al.:** Turbulence control for drag reduction through deep reinforcement learning [[article](https://doi.org/10.1103/PhysRevFluids.8.024604)]
@@ -27,6 +36,7 @@ Within each year, articles are sorted by family name of the first author.
 - **S. Peitz et al.:** Distributed Control of Partial Differential Equations Using Convolutional Reinforcement Learning [[preprint](https://arxiv.org/abs/2301.10737)]
 - **F. Pino et al.:** Comparative analysis of machine learning methods for active flow control [[article](https://doi.org/10.1017/jfm.2023.76)][[preprint](https://arxiv.org/abs/2202.11664)]
 - **T. Sonoda et al.:** Reinforcement learning of control strategies for reducing skin friction drag in a fully developed turbulent channel flow [[article](https://doi.org/10.1017/jfm.2023.147)]
+- **P. Suarez et al.:** Active flow control for three-dimensional cylinders through deep reinforcement learning [[preprint](https://arxiv.org/abs/2309.02462)]
 - **A. Vadrot et al.:** Survey of machine-learning wall models for large-eddy simulation [[article](https://doi.org/10.1103/PhysRevFluids.8.064603)][[preprint](https://arxiv.org/abs/2211.03614)]
 - **C. Vignon et al.:** Recent advances in applying deep reinforcement learning for flow control: Perspectives and future directions [[article](https://doi.org/10.1063/5.0143913)]
 - **C. Vignon et al.:** Effective control of two-dimensional Rayleigh–Bénard convection: Invariant multi-agent reinforcement learning is all you need [[article](https://doi.org/10.1063/5.0153181)][[preprint](https://arxiv.org/abs/2304.02370)][[code](https://github.com/KTH-FlowAI/DeepReinforcementLearning_RayleighBenard2D_Control)]
@@ -52,6 +62,7 @@ Within each year, articles are sorted by family name of the first author.
 - **M. Kurz et al.:** Deep reinforcement learning for computational fluid dynamics on HPC systems [[article](https://doi.org/10.1016/j.jocs.2022.101884)][[code](https://github.com/flexi-framework/relexi)]
 - **H. Liang et al.:** A Model Coupling CFD and DRL: Investigation on Wave Dissipation by Actively Controlled Flat Plate [[article](https://doi.org/10.1109/ACCESS.2022.3204968)]
 - **J. Li and M. Zhang:** Reinforcement-learning-based control of confined cylinder wakes with stability analyses [[article](https://doi.org/10.1017/jfm.2021.1045)][[preprint](https://arxiv.org/abs/2111.07498)]
+- **C. Lorsung and A. B. Farimani:** Mesh deep Q network: A deep reinforcement learning framework for improving meshes in computational fluid dynamics [[article](https://doi.org/10.1063/5.0138039)][[preprint](https://doi.org/10.48550/arXiv.2212.01428)][[code]](https://github.com/BaratiLab/MeshDQN)
 - **Y. Mao et al.:** Active flow control using deep reinforcement learning with time delays in Markov decision process and autoregressive policy [[article](https://doi.org/10.1063/5.0086871)]
 - **Y. F. Mei et al.:** Active control for the flow around various geometries through deep reinforcement learning [[article](https://iopscience.iop.org/article/10.1088/1873-7005/ac4f2d)]
 - **J. R. Mianroodi et al.:** Computational Discovery of Energy-Efficient Heat Treatment for Microstructure Design using Deep Reinforcement Learning [[preprint](https://arxiv.org/abs/2209.11259)]
