@@ -14,6 +14,7 @@ Within each year, articles are sorted by family name of the first author.
 <details>
 <summary>2024</summary>
 
+- **Y. Ito et al.:** Optimisation of initial velocity distribution of jets for entrainment and diﬀusion control using deep reinforcement learning [[article](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124788)]
 - **Y. Z. Wang et al.:** Control policy transfer of deep reinforcement learning based intelligent forced heat convection control [[article](https://doi.org/10.1016/j.ijthermalsci.2023.108618)]
 
 </details>
@@ -28,6 +29,7 @@ Within each year, articles are sorted by family name of the first author.
 - **L. Guastoni et al.:** Deep reinforcement learning for turbulent drag reduction in channel flows [[article](https://link.springer.com/article/10.1140/epje/s10189-023-00285-8)][[preprint](https://arxiv.org/abs/2301.09889)][[code](https://github.com/KTH-FlowAI/MARL-drag-reduction-in-wall-bounded-flows)]
 - **L. Guastoni et al.:** Drag-reduction strategies in wall-bounded turbulent flows using deep reinforcement learning [[preprint](https://arxiv.org/abs/2309.02943)]
 - **F. Haodong et al.:** How to control hydrodynamic force on fluidic pinball via deep reinforcement learning [[article](https://doi.org/10.1063/5.0142949)][[preprint](https://arxiv.org/abs/2304.11526)][[code](https://github.com/HDFengChina/How-to-Control-Hydrodynamic-Force)]
+- **H. Jiang and S. Cao:** Reinforcement learning-based active flow control of oscillating cylinder for drag reduction [[article](https://doi.org/10.1063/5.0172081)]
 - **M. Kurz et al.:** Deep reinforcement learning for turbulence modeling in large eddy simulations [[article](https://doi.org/10.1016/j.ijheatfluidflow.2022.109094)][[preprint](https://arxiv.org/abs/2206.11038)][[code](https://github.com/flexi-framework/DRL_LES)]
 - **T. Lee et al.:** Turbulence control for drag reduction through deep reinforcement learning [[article](https://doi.org/10.1103/PhysRevFluids.8.024604)]
 - **A. J. Linot et al.:** Turbulence control in plane Couette flow using low-dimensional neural ODE-based models and deep reinforcement learning [[article](https://doi.org/10.1016/j.ijheatfluidflow.2023.109139)][[preprint](https://arxiv.org/abs/2301.12098)]
@@ -43,9 +45,12 @@ Within each year, articles are sorted by family name of the first author.
 - **J. Viquerat and E. Hachem:** Parallel Bootstrap-Based On-Policy Deep Reinforcement Learning for Continuous Fluid Flow Control Applications [[article](https://doi.org/10.3390/fluids8070208)][[preprint](https://arxiv.org/abs/2304.12330)]
 - **M. Shams and A. H. Elsheikh:** PGym-preCICE: Reinforcement learning environments for active flow control [[article](https://doi.org/10.1016/j.softx.2023.101446)][[preprint](https://arxiv.org/abs/2305.02033)][[code](https://github.com/gymprecice/gymprecice)]
 - **Q. Wang et al.:** Dynamic Feature-based Deep Reinforcement Learning for Flow Control of Circular Cylinder with Sparse Surface Pressure Sensing [[preprint](https://arxiv.org/abs/2307.01995)]
+- **Z. Wang et al.:** Deep reinforcement transfer learning of active control for bluff body flows at high Reynolds number [[article](Deep reinforcement transfer learning of active control for bluff body flows at high Reynolds number)]
 - **C. Xia et al.:** Active Flow Control for Bluff Body Drag Reduction Using Reinforcement Learning with Partial Measurements [[preprint](https://arxiv.org/abs/2307.12650)]
 - **H. Xian-Jun et al.:** Policy transfer of reinforcement learning-based flow control: From two- to three-dimensional environment [[article](https://doi.org/10.1063/5.0147190)]
 - **D. Xu et al.:** Reinforcement-learning-based control of convectively unstable flows [[article](https://doi.org/10.1017/jfm.2022.1020)][[preprint](https://arxiv.org/abs/2212.01014)]
+- **L. Yan et al.:** Stabilizing the square cylinder wake using deep
+reinforcement learning for different jet locations [[article](https://doi.org/10.1063/5.0171188)]
 - **X. Zhenlin et al.:** Applying reinforcement learning to mitigate wake-induced lift fluctuation of a wall-confined circular cylinder in tandem configuration [[article](https://doi.org/10.1063/5.0150244)]
 
 </details>
